@@ -9,3 +9,9 @@ vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reali
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=www.yandex.ru#🚀LOCKDOWN-Megafon-Yandex
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=ozon.ru#🚀LOCKDOWN-TELE2-Ozon
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638978016693355897.oslo-blkaft-aabc.info:8880?encryption=none&security=&sni=avito.ru&type=grpc&alpn=&host=&path=#🚀LOCKDOWN-Zapas-Avito
+vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?encryption=none&security=reality&sni=www.vk.com&fp=chrome&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&sid=d21e7c&type=tcp&flow=xtls-rprx-vision&headerType=none#🚀DK-MTS-VK
+vless://c6a57574-c851-42de-81e1-964c2864290f@38.180.250.185:8443?security=reality&encryption=none&pbk=yhMLwymsU7Y0sPfUB9X8nifExeWSxk7lO48h8bOpNR4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.sber.ru&sid=f8390d&flow=xtls-rprx-vision#🚀PL-Beeline-Sber
+vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=c2fa&flow=xtls-rprx-vision#🚀FI-Tele2-Yandex
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=www.gosuslugi.ru&flow=xtls-rprx-vision#🚀US-Megafon-GosUslugi
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=www.ozon.ru&flow=xtls-rprx-vision#🚀US2-All-Ozon
+vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638978016693355897.oslo-blkaft-aabc.info:8880?encryption=none&security=tls&sni=www.avito.ru&type=grpc&alpn=h2&host=oslo-blkaft-aabc.info&path=%2F&flow=xtls-rprx-vision#🚀LV-Zapas-Avito
